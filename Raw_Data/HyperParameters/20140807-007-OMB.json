@@ -1,0 +1,16 @@
+{
+    "data": {
+        "timestack": "/mnt/doc/DataHub/Timestacks/OneMileBeach/20140807-007.nc",
+        "breaking": "/mnt/doc/DataHub/Breaking/OneMileBeach/20140807-007.dbf",
+        "shoreline": "/mnt/doc/DataHub/Swash/OneMileBeach/20140807-SWASH-007.csv",
+        "output": "/mnt/doc/DataHub/WaveOverruning/OneMileBeach/20140807-007.csv"
+    },
+    "parameters": {
+        "projection": 2,
+        "OLS_order": 3,
+        "max_time_threshold": 1,
+        "wavepath_npoints": 100,
+        "show_plot": false,
+        "savefig": "/mnt/doc/DataHub/WaveOverruning/OneMileBeach/20140807-007.png"
+    }
+}

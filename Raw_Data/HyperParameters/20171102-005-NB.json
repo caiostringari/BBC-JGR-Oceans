@@ -1,0 +1,16 @@
+{
+    "data": {
+        "timestack": "/mnt/doc/DataHub/Timestacks/NobbysBeach/20171102-005.nc",
+        "breaking": "/mnt/doc/DataHub/Breaking/NobbysBeach/20171102-005.dbf",
+        "shoreline": "/mnt/doc/DataHub/Swash/NobbysBeach/20171102-005.csv",
+        "output": "/mnt/doc/DataHub/WaveOverruning/NobbysBeach/20171102-005.csv"
+    },
+    "parameters": {
+        "projection": 1,
+        "OLS_order": 2,
+        "max_time_threshold": 1,
+        "wavepath_npoints": 100,
+        "show_plot": false,
+        "savefig": "/mnt/doc/DataHub/WaveOverruning/NobbysBeach/20171102-005.png"
+    }
+}

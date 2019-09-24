@@ -1,0 +1,16 @@
+{
+    "data": {
+        "timestack": "/mnt/doc/DataHub/Timestacks/MoretonIsland/20161220-000.nc",
+        "breaking": "/mnt/doc/DataHub/Breaking/MoretonIsland/20161220-000.dbf",
+        "shoreline": "/mnt/doc/DataHub/Swash/MoretonIsland/20161220-SWASH-000.csv",
+        "output": "/mnt/doc/DataHub/WaveOverruning/MoretonIsland/20161220-000.csv"
+    },
+    "parameters": {
+        "projection": 1,
+        "OLS_order": 2,
+        "max_time_threshold": 1,
+        "wavepath_npoints": 100,
+        "show_plot": false,
+        "savefig": "/mnt/doc/DataHub/WaveOverruning/MoretonIsland/20161220-000.png"
+    }
+}

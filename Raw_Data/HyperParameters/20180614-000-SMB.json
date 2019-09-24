@@ -1,0 +1,16 @@
+{
+    "data": {
+        "timestack": "/mnt/doc/DataHub/Timestacks/SevenMileBeach/20180614-000.nc",
+        "breaking": "/mnt/doc/DataHub/Breaking/SevenMileBeach/20180614-000.dbf",
+        "shoreline": "/mnt/doc/DataHub/Swash/SevenMileBeach/20180614-000.csv",
+        "output": "/mnt/doc/DataHub/WaveOverruning/SevenMileBeach/20180614-000.csv"
+    },
+    "parameters": {
+        "projection": 3,
+        "OLS_order": 2,
+        "max_time_threshold": 1,
+        "wavepath_npoints": 100,
+        "show_plot": false,
+        "savefig": "/mnt/doc/DataHub/WaveOverruning/SevenMileBeach/20180614-000.png"
+    }
+}

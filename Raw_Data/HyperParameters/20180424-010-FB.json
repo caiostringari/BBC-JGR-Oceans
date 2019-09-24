@@ -1,0 +1,16 @@
+{
+    "data": {
+        "timestack": "/mnt/doc/DataHub/Timestacks/FrazerBeach/20180424-010.nc",
+        "breaking": "/mnt/doc/DataHub/Breaking/FrazerBeach/20180424-010.dbf",
+        "shoreline": "/mnt/doc/DataHub/Swash/FrazerBeach/20180424-SWASH-010.csv",
+        "output": "/mnt/doc/DataHub/WaveOverruning/FrazerBeach/20180424-010.csv"
+    },
+    "parameters": {
+        "projection": 2,
+        "OLS_order": 2,
+        "max_time_threshold": 1,
+        "wavepath_npoints": 100,
+        "show_plot": false,
+        "savefig": "/mnt/doc/DataHub/WaveOverruning/FrazerBeach/20180424-010.png"
+    }
+}
